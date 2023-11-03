@@ -1,16 +1,11 @@
-# flutter_grocery_ui
+# Flutter Grocery UI
 
-A new Flutter project.
+This is the **development/v1** branch, developments that have been carried out include:
+1. Create a home page. Contains a menu app bar, shopping cart, search button, and list of products available in the store.
+2. Create a product detail page. Contains product images and descriptions, as well as purchase buttons.
+4. Create a feature for adding and subtracting items in the product list and product details sections. Used to increase and decrease the number of items to be purchased.
 
-## Getting Started
+## Use
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Click the '+' button and '-' button to increase and decrease the number of items. This button is found on the main page and product detail page.
+2. To see a detailed product description on the product detail page, you can press the product image on the main page.
