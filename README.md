@@ -1,7 +1,7 @@
 # Flutter Grocery UI
 
 This is the **development/v1** branch, developments that have been carried out include:
-1. Create a home page. Contains a menu app bar, shopping cart, search button, and list of products available in the store.
+1. Create a home page. Contains a menu app bar, shopping cart, search button, and list of products available.
 2. Create a product detail page. Contains product images and descriptions, as well as purchase buttons.
 4. Create a feature for adding and subtracting items in the product list and product details sections. Used to increase and decrease the number of items to be purchased.
 
