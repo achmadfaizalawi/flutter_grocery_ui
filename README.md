@@ -1,6 +1,6 @@
 # Flutter Grocery UI
 
-The grocery application is an application that can be used to buy vegetables. This application was created to learn UI slicing from images into applications developed with the Flutter framework.
+The grocery application is an application that can be used to purchase fruit and vegetables. This grocery application was created to study the process of slicing UI from images into applications developed with Flutter. There is a reference design that I use for the slicing process.
 
 ## Key Features
 
@@ -23,7 +23,7 @@ The grocery application is an application that can be used to buy vegetables. Th
 
 ## Branch
 
-In the application development process, the results of application development are stored outside the master branch. The following are the available branches:
+In the application development process, the results of application development are saved outside the main branch. The following are the available branches:
 - **main**: The first branch in application development.
 - **development/v1**: 
   1. Page development, (home page, product details page).
