@@ -14,6 +14,6 @@ This is the **development/v1** branch, developments that have been carried out i
 
 In the UI slicing process I took design references from the [YouTube](https://youtu.be/Ih2Joj9hgys?si=OGnWt278uhrnH3R7) platform.
 
-## Preview UI Image:
+## Preview UI Image
 
 <img src="https://github.com/achmadfaizalawi/flutter_grocery_ui/blob/development/v1/assets/preview_ui_images/home_page.png?raw=true" width="400" height="800"/> <img src="https://github.com/achmadfaizalawi/flutter_grocery_ui/blob/development/v1/assets/preview_ui_images/detail_product_page.png?raw=true" width="400" height="800"/> 
