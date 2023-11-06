@@ -10,6 +10,10 @@ This is the **development/v1** branch, developments that have been carried out i
 1. Click the '+' button and '-' button to increase and decrease the number of items. This button is found on the main page and product detail page.
 2. To view the product description on the product detail page, you can press the product image on the main page.
 
+## Reference
+
+In the UI slicing process I took design references from the [YouTube](https://youtu.be/Ih2Joj9hgys?si=OGnWt278uhrnH3R7) platform.
+
 ## Preview UI Image:
 
 <img src="https://github.com/achmadfaizalawi/flutter_grocery_ui/blob/development/v1/assets/preview_ui_images/home_page.png?raw=true" width="400" height="800"/> <img src="https://github.com/achmadfaizalawi/flutter_grocery_ui/blob/development/v1/assets/preview_ui_images/detail_product_page.png?raw=true" width="400" height="800"/> 
